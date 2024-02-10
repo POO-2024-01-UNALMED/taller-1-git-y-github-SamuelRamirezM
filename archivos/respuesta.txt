@@ -1,0 +1,2 @@
+Problema con el punto 8 Taller 1:
+Al crear la carpeta "archivos" no se actualiza nada en el GitHub Desktop y por lo tanto no se puede hacer un nuevo commit.
