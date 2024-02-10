@@ -1,3 +1,12 @@
 Nombre: Samuel Ramírez Muñoz
 Edad: 18 años
 Aspiraciones con la materia: Espero poder expandir mi conocimiento al explorar este nuevo paradigma de programación, y adquirir habilidades que pueda usar más adelante en mi futuro profesional, no simplemente técnicas, sino también habilidades blandas como la comunicación y trabajo en equipo.
+¿Por qué ahora si puedo crear un commit y subir la carpeta?
+Podría ser porque las carpetas vacías recién creadas no se toman en cuenta como un nuevo cambio en el repositorio, entonces no nos permite hacer un commit. Sin embargo, 
+como estamos creando el archivo desde el repositorio en la web nos permite añadirlo directamente.
+También puede ser porque la carpeta "archivos" ya tiene otro archivo dentro de ella, y es entonces cuando se empiezan a considerar los nuevos cambios permitiendonos hacer el
+commit sin problema.
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Porque se pueden generar conflictos como nos ocurrieron en este ejercicio, y estos conflictos pueden hacer más dificil la realización del proyecto.
+Por ejemplo podrían eliminarse elementos que se necesiten para que el archivo funcione bien, obligandonos acudir a funciones como "revertir", 
+que po9r sí misma también puede conllevar a problemas más profundos dentro del proyecto, y esto no solo sería un problema para el desarrollador, sino también para su equipo de trabajo si es el caso.
