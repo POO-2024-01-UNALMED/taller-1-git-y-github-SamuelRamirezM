@@ -1,0 +1,5 @@
+¿Por qué ahora si puedo crear un commit y subir la carpeta?
+Podría ser porque las carpetas vacías recién creadas no se toman en cuenta como un nuevo cambio en el repositorio, entonces no nos permite hacer un commit. Sin embargo, 
+como estamos creando el archivo desde el repositorio en la web nos permite añadirlo directamente.
+También puede ser porque la carpeta "archivos" ya tiene otro archivo dentro de ella, y es entonces cuando se empiezan a considerar los nuevos cambios permitiendonos hacer el
+commit sin problema.
